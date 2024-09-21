@@ -61,19 +61,7 @@ author:
   name   : "Juanma Garcia"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Ladies and gentlemen, many blogs have been written. This is one of them."
-  # links:
-  #  - label: "Website"
-  #    icon: "fas fa-fw fa-link"
-  #    url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+
 
 footer:
   links:
